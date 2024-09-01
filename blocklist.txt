@@ -23,3 +23,8 @@
 /^analyticsengine.s3.amazonaws.com/
 /^analytics.s3.amazonaws.com/
 /^advice-ads.s3.amazonaws.com/
+/^pagead2.googleadservices.com/
+/^ads30.adcolony.com/
+/^adc3-launch.adcolony.com/
+/^events3alt.adcolony.com/
+/^wd.adcolony.com/
