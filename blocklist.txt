@@ -1,0 +1,25 @@
+!
+! Title: CHN: Girth's Blocklist
+! Description: List for blocking ads that other lists aren't getting
+! Version: 1.0.1
+! Homepage: https://github.com/BKorenek/DNS_Blocklists
+! Last modified: 2024-09-01T00:28:28.378Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+!
+! Source name: Girth's Blocklist
+! Source: https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+!
+! Title: Girth's Blocklist
+! Homepage: https://github.com/Cats-Team/AdRules
+! Powerd by BKorenek
+! Expires: 1 (update frequency)
+! Description: The DNS Filters
+! Total count: 1
+! Update: 2024-09-01 08:04:47(GMT+8)
+/^.+stat\.kugou\.com/
+/^adtago.s3.amazonaws.com/
+/^analyticsengine.s3.amazonaws.com/
+/^analytics.s3.amazonaws.com/
+/^advice-ads.s3.amazonaws.com/
